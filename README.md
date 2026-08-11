@@ -1,2 +1,3 @@
-# dev-notebook
-Developer notebook for quick reference
+# Developer Notebook
+
+Sometimes I just want a quick reference...
