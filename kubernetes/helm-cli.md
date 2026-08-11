@@ -1,6 +1,6 @@
 # Helm CLI - Cheatsheet
 
-**Last Updated: 2026-08
+**Last Updated: 2026-08**
 
 Helm is the package manager for Kubernetes. It uses **charts** to define, install, upgrade, and manage Kubernetes applications.
 
